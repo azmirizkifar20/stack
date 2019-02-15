@@ -1,2 +1,2 @@
 # Program tebak angka
-Berisi operasi stack sebagai penampung data, dan operasi math random
+Program tebak angka menggunakan stack sebagai tempat menampung data point dan angka yang ditebak, dan operasi math random sebagai fungsi random angka
